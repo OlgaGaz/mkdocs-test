@@ -1,0 +1,7 @@
+site_name: Требования КриптоАРМ
+site_url: https://OlgaGaz.github.io/mkdocs-test/
+theme:
+  name: material
+  palette:
+    primary: black
+site_author: Olga Gazizova

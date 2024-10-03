@@ -4,4 +4,12 @@ theme:
   name: material
   palette:
     primary: black
+    features:
+    - navigation.tabs
+    - navigation.tabs.sticky
+    - navigation.sections
+    - navigation.path
 site_author: Olga Gazizova
+extra:
+  version:
+    provider: mike
